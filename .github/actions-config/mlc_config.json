@@ -7,7 +7,7 @@
       "pattern": "^(https:\\/\\/)?([www.]?)+(microsoft.com\\/)+[\\w\\-\\._~:/?#[\\]@!\\$&'\\(\\)\\*\\+,;=.]+$"
     },
     {
-      "pattern": "/Azure-Proactive-Resiliency-Library/"
+      "pattern": "/apr/"
     },
     {
       "pattern": "^https://vantage-design.com"
