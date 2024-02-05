@@ -45,3 +45,12 @@ Please see the [contribution guide here]({{< ref "contributing/_index.md">}}).
 Please note that this site is built upon [GithHub Pages](https://pages.github.com) using [Hugo](https://gohugo.io/) which is using the [Ace Documentation theme](https://docs.vantage-design.com/ace/)
 
 {{< /alert >}}
+
+
+<Br>
+
+[!INCLUDE [Availability zone description](~/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md)]
+
+<Br><Br><br><br><Br>
+
+:::code language="markdown" source="~/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md":::
