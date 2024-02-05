@@ -46,11 +46,10 @@ Please note that this site is built upon [GithHub Pages](https://pages.github.co
 
 {{< /alert >}}
 
-
 <Br>
 
 [!INCLUDE [Availability zone description](~/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md)]
 
 <Br><Br><br><br><Br>
 
-:::code language="markdown" source="~/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md":::
+[!INCLUDE [Availability zone description]([~/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md](https://github.com/MicrosoftDocs/azure-docs/edit/main/articles/reliability/reliability-virtual-machines.md))]
